@@ -1,0 +1,15 @@
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\bin\Debug\net6.0\GetechMexProjec.Interfaces.deps.json
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\bin\Debug\net6.0\GetechMexProjec.Interfaces.dll
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\bin\Debug\net6.0\GetechMexProjec.Interfaces.pdb
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\bin\Debug\net6.0\GetechMexProjec.Models.dll
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\bin\Debug\net6.0\GetechMexProjec.Models.pdb
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.csproj.AssemblyReference.cache
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.AssemblyInfoInputs.cache
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.AssemblyInfo.cs
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.csproj.CoreCompileInputs.cache
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.csproj.CopyComplete
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.dll
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\refint\GetechMexProjec.Interfaces.dll
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\GetechMexProjec.Interfaces.pdb
+C:\sitio\GetechMexProject\GetechMexProjec.Interfaces\obj\Debug\net6.0\ref\GetechMexProjec.Interfaces.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdgyLQtdQRXUsZE9B+QJlwuF6W3d2jLXaJLZ4gl0nSvnEfOunUP9ruiwl5M3T/gVybIZqyxKMaGEGYRhDmsbdg==",
+  "success": true,
+  "projectFilePath": "C:\\Sitio\\Getech\\GetechMexProject\\GetechMexProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent Law\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

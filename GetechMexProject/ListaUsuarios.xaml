@@ -1,0 +1,31 @@
+﻿<Window x:Class="GetechMexProject.ListaUsuarios"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GetechMexProject"
+        mc:Ignorable="d"
+        MaxHeight="700" MaxWidth="1000"
+        Title="Lista Usuarios" Height="700" Width="1000" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" HorizontalAlignment="Center">
+            <Label FontSize="25" FontWeight="Bold"> Lista de usuarios </Label>
+        </Grid>
+        <Grid Grid.Row="1">
+            <DataGrid x:Name="tablaUsuarios" AutoGenerateColumns="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}"
+                ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding nombre}" Width="*" />
+                    <DataGridTextColumn Header="Apellido Paterno" Binding="{Binding apellidoPaterno}" Width="*" />
+                    <DataGridTextColumn Header="Apellido Materno" Binding="{Binding apellidoMaterno}" Width="*" />
+                    <DataGridTextColumn Header="Identificacion" Binding="{Binding identificacion}" Width="*" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

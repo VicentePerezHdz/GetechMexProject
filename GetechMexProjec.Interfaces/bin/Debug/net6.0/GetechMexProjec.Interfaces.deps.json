@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GetechMexProjec.Interfaces/1.0.0": {
+        "dependencies": {
+          "GetechMexProjec.Models": "1.0.0"
+        },
+        "runtime": {
+          "GetechMexProjec.Interfaces.dll": {}
+        }
+      },
+      "GetechMexProjec.Models/1.0.0": {
+        "runtime": {
+          "GetechMexProjec.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetechMexProjec.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GetechMexProjec.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

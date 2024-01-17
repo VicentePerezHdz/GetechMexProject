@@ -1,0 +1,11 @@
+C:\sitio\GetechMexProject\GetechMexProjecModels\bin\Debug\net6.0\GetechMexProjec.Models.deps.json
+C:\sitio\GetechMexProject\GetechMexProjecModels\bin\Debug\net6.0\GetechMexProjec.Models.dll
+C:\sitio\GetechMexProject\GetechMexProjecModels\bin\Debug\net6.0\GetechMexProjec.Models.pdb
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\GetechMexProjec.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\GetechMexProjec.Models.AssemblyInfoInputs.cache
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\GetechMexProjec.Models.AssemblyInfo.cs
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\GetechMexProjec.Models.csproj.CoreCompileInputs.cache
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\GetechMexProjec.Models.dll
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\refint\GetechMexProjec.Models.dll
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\GetechMexProjec.Models.pdb
+C:\sitio\GetechMexProject\GetechMexProjecModels\obj\Debug\net6.0\ref\GetechMexProjec.Models.dll

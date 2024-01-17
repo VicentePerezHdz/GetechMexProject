@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetechMexProject", "GetechMexProject\GetechMexProject.csproj", "{7B37D24B-2345-41D1-B900-53808DAB81EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetechMexProject.API", "GetechMexProjectAPI\GetechMexProject.API.csproj", "{F7DF6F2F-C312-48C0-A2E9-124DD866FC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetechMexProjec.Models", "GetechMexProjecModels\GetechMexProjec.Models.csproj", "{453FA9D0-7811-46E2-B1D7-0382C671178D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetechMexProject.Repository", "GetechMexProject.Repository\GetechMexProject.Repository.csproj", "{864E92C7-0535-4E38-88FD-2C7C61B52DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetechMexProjec.Interfaces", "GetechMexProjec.Interfaces\GetechMexProjec.Interfaces.csproj", "{7BF9961D-60A0-4A23-8752-9C4068B701BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B37D24B-2345-41D1-B900-53808DAB81EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B37D24B-2345-41D1-B900-53808DAB81EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B37D24B-2345-41D1-B900-53808DAB81EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B37D24B-2345-41D1-B900-53808DAB81EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DF6F2F-C312-48C0-A2E9-124DD866FC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DF6F2F-C312-48C0-A2E9-124DD866FC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DF6F2F-C312-48C0-A2E9-124DD866FC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DF6F2F-C312-48C0-A2E9-124DD866FC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453FA9D0-7811-46E2-B1D7-0382C671178D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453FA9D0-7811-46E2-B1D7-0382C671178D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453FA9D0-7811-46E2-B1D7-0382C671178D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453FA9D0-7811-46E2-B1D7-0382C671178D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864E92C7-0535-4E38-88FD-2C7C61B52DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864E92C7-0535-4E38-88FD-2C7C61B52DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864E92C7-0535-4E38-88FD-2C7C61B52DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864E92C7-0535-4E38-88FD-2C7C61B52DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF9961D-60A0-4A23-8752-9C4068B701BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF9961D-60A0-4A23-8752-9C4068B701BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF9961D-60A0-4A23-8752-9C4068B701BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF9961D-60A0-4A23-8752-9C4068B701BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226ACC74-0D64-45FE-B1A0-A8C548A15674}
+	EndGlobalSection
+EndGlobal
